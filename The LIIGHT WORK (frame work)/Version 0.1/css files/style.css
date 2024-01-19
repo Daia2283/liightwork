@@ -1,0 +1,28 @@
+ /* variable */
+
+ :root{
+   --blu: #047aed;
+   --base: /* add any color as your base color*/ #1c3fa8;
+  --primary: /* add any color as your primary color*/ #fff;
+  --col_1: /* add any color as your col_1 color*/ #002240;
+  --col_2: /* add any color as your col_2 color*/#ddd;
+  --col_3: /* add any color as your col_3 color*/ #ccc;
+  --col_4: /* add any color as your col_4 color*/ #333;
+  --col_5: /* add any color as your col_5 color*/;
+  --col_6: /* add any color as your col_6 color*/ #5676ff;
+  --col_7: /* add any color as your col_7 color*/  #000fff;
+  --col_8: /* add any color as your col_8 color*/ #fff000;
+  --col_9: /* add any color as your col_9 color*/#f00;
+  --col_10: /* add any color as your col_10 color*/#11cc30;
+  /* Border color */
+  --bor-col1: #fff;
+  --bor-col2: #000;
+ }
+  *{
+    box-sizing: border-box; 
+    padding: 0;
+    margin: 0;
+  }
+    body{
+    line-height: 1.6;
+  }
